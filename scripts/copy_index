@@ -1,2 +1,2 @@
 #!/bin/bash
-aws s3 cp ../index.html s3://awscodepipeline-demobucket-example-awsjsonw1/
+aws s3 cp /index.html s3://awscodepipeline-demobucket-example-awsjsonw1/
