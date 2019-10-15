@@ -12,7 +12,7 @@ hooks:
       timeout: 300
       runas: root
   AfterInstall:
-    - location: scripts/copy_index
+    - location: copy_index
       timeout: 300
       runas: root
   ApplicationStop:
